@@ -1,5 +1,4 @@
-
-
+Testing
 Requires merchant upi id for receiver!
 
 ## Getting Started
@@ -21,17 +20,17 @@ complete the payments using installed UPI/ Banking payment apps.
 
 Package implements [UPI Deep Linking And Proximity Integration Specification]().
 
-- Package supports 
-    - Android | iOS platforms
-    - amazonpay
-    - bhimupi
-    - googlepay
-    - mipay
-    - mobikwik
-    - myairtelupi
-    - paytm
-    - phonepe
-    - sbiupi 
+- Package supports
+  - Android | iOS platforms
+  - amazonpay
+  - bhimupi
+  - googlepay
+  - mipay
+  - mobikwik
+  - myairtelupi
+  - paytm
+  - phonepe
+  - sbiupi
 
 ## Big Limitation For iOS
 
